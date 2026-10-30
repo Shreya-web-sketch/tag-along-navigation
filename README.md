@@ -3,7 +3,7 @@
 A voice-guided web app that helps blind and low-vision students navigate the BMSCE campus.
 
 ## Team
-- Shreya Kuber – Back end
+- Shreya K – Back end
 - Shreya Yadav – AI integration
 - Tanisha – Front end
 - Sushmitha – Database
