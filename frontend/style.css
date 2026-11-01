@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #000000;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+#statusText {
+  font-size: 1.4rem;
+  margin: 20px 0;
+}
+
+button {
+  width: 100%;
+  max-width: 400px;
+  min-height: 80px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  background: #ffd400;
+  color: #000000;
+  border: 3px solid #000000;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 4px solid #0000ff;
+}
